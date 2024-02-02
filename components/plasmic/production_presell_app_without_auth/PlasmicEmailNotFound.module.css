@@ -1,0 +1,231 @@
+.root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 350px;
+  height: auto;
+  max-width: 100%;
+  box-shadow: 0px 4px 16px 0px #00000033;
+  position: relative;
+  border-radius: 15px;
+  padding: 25px;
+  border: 0.5px solid #868686;
+}
+.img {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 40px;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+.text___0HBTj {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-weight: 700;
+  text-align: center;
+  font-size: 21px;
+  min-width: 0;
+}
+.text__gTl08 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 35px;
+  min-width: 0;
+}
+.text__izJfW {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-weight: 700;
+  text-align: center;
+  font-size: 21px;
+  min-width: 0;
+  display: none;
+}
+.text__pwcD9 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-size: 16px;
+  text-align: center;
+  min-width: 0;
+  display: none;
+}
+.form2 {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 350px;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+.form2tryAgain {
+  display: none;
+}
+.textInput2:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  margin-bottom: 10px;
+  width: 100%;
+  min-width: 0;
+  display: none;
+}
+.svg___0N5Ge {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__owzE8 {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.freeBox__wMPvh {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 1px;
+  height: 1px;
+  flex-shrink: 0;
+  padding: 0px;
+}
+.hiddenTextInputEmail:global(.__wab_instance) {
+  width: 1px;
+  height: 1px;
+  flex-shrink: 0;
+}
+.svg__xz9Ag {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__cLk8F {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.submitButton__i1Lt8:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: 333px;
+  height: 39px;
+  flex-shrink: 0;
+}
+.svg__fVnb {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__ozWkI {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.embedHtml:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+}
+.form3 {
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 350px;
+  height: auto;
+  max-width: 100%;
+  display: none;
+  padding: 8px;
+}
+.form3tryAgain {
+  display: flex;
+}
+.textInput3:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  margin-bottom: 10px;
+  width: 100%;
+  min-width: 0;
+}
+.svg__dFanK {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__ewRRg {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.submitButton__osA5P:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: 333px;
+  height: 39px;
+  flex-shrink: 0;
+}
+.svg__nEKg {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__nPeDw {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.freeBox__opO2H {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 283px;
+  height: 39px;
+  max-width: 100%;
+  background: #ffffff;
+  flex-shrink: 0;
+  border-radius: 0.5rem;
+  padding: 0px;
+  border: 1px solid #868686;
+}
+.freeBoxtryAgain__opO2HrpKxJ {
+  display: none;
+}
+.text__tHa4 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  font-family: "Inconsolata";
+  font-size: 1.125rem;
+  color: #000000;
+  text-align: center;
+  min-width: 0;
+}

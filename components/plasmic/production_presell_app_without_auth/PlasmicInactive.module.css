@@ -1,0 +1,35 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: 60px;
+  height: 26px;
+  max-width: 100%;
+  position: relative;
+  border-radius: 40px;
+  padding: 0px;
+  border: 2px solid #000000;
+}
+.rootactive {
+  padding-left: 28px;
+  height: 26px;
+}
+.freeBox {
+  display: block;
+  width: 28px;
+  height: 22px;
+  max-width: 100%;
+  background: #5a5e5a;
+  margin-bottom: 0px;
+  flex-shrink: 0;
+  border-radius: 40px;
+  padding: 8px;
+  border: 2px solid #000000;
+}
+.freeBoxactive {
+  background: #10d224;
+  width: 28px;
+  height: 22px;
+  flex-shrink: 0;
+}

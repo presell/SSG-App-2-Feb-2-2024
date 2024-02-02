@@ -1,0 +1,242 @@
+.ad {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  box-shadow: 0px 4px 16px 0px #00000033;
+  position: relative;
+  border-radius: 15px;
+  padding: 8px;
+  border: 1px solid #868686;
+}
+.brand {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px 8px 8px 12px;
+}
+.img {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 2rem;
+  height: 2rem;
+  flex-shrink: 0;
+  border-radius: 100px;
+}
+.img > picture > img {
+  object-fit: cover;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .img {
+    width: 2rem;
+    flex-shrink: 0;
+  }
+}
+.editable:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.text__yqdFn {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding-top: 2px;
+  font-family: "Inconsolata";
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #383b3d;
+  padding-left: 21px;
+}
+.edit:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.body {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 5px 12px;
+  margin: 0rem 0px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .body {
+    width: 100%;
+    min-width: 0;
+    margin: 0px 0px 0rem;
+  }
+}
+.text__oek6P {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-top: 0px;
+  font-family: "Inconsolata";
+  color: #5a5d63;
+  padding-left: 0px;
+  font-size: 21px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__oek6P {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.text__ulLKa {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  padding-top: 0px;
+  font-family: "Inconsolata";
+  color: #5a5d63;
+  padding-left: 0px;
+  font-size: 21px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__ulLKa {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.text___3NmK {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  padding-top: 0px;
+  font-family: "Inconsolata";
+  color: #5a5d63;
+  padding-left: 0px;
+  font-size: 21px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text___3NmK {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.text__rv3P {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  padding-top: 0px;
+  font-family: "Inconsolata";
+  color: #5a5d63;
+  padding-left: 0px;
+  font-size: 21px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__rv3P {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.creative {
+  position: relative;
+  object-fit: cover;
+  align-self: flex-start;
+  width: 100%;
+  min-width: 0;
+  margin: 0px;
+}
+.creative > picture > img {
+  object-fit: cover;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .creative {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.freeBox__wkrsx {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  margin-right: 0px;
+  min-width: 0;
+  padding: 12px 12px 0px;
+}
+.text__gutNc {
+  width: 380rem;
+  height: auto;
+  max-width: 100%;
+  padding-top: 0rem;
+  font-size: 1.25rem;
+  font-family: "Inconsolata";
+  font-weight: 600;
+  padding-left: 6px;
+  text-align: left;
+  padding-right: 0px;
+}
+.text___3QMsQ {
+  position: relative;
+  width: 380rem;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  padding-top: 2px;
+  font-family: "Inconsolata";
+  color: #5a5d63;
+  font-size: 0.875rem;
+  padding-left: 5px;
+  text-align: left;
+}
+.freeBox__gBiDw {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px 12px 12px;
+  margin: 0px 0rem 16px;
+}
+.learnMoreButton:global(.__wab_instance) {
+  max-width: 100%;
+  width: 146px;
+  height: 55px;
+  flex-shrink: 0;
+}
+.svg___80I16 {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg___5LboI {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}

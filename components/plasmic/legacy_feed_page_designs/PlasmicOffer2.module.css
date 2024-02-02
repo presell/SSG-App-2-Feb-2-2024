@@ -1,0 +1,260 @@
+.root {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  position: relative;
+  min-width: 0;
+  padding: 8px;
+  border: 5px solid #e4e4da;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .root {
+    padding: 0px;
+  }
+}
+.image {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .image {
+    padding-left: 0px;
+  }
+}
+.freeBox__gH3Xl {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  margin-right: 30px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .freeBox__gH3Xl {
+    margin-right: 0px;
+  }
+}
+.img__zK71 {
+  position: relative;
+  object-fit: contain;
+  max-width: 100%;
+  width: auto;
+  height: 423px;
+  margin-right: 0;
+  flex-shrink: 0;
+}
+.img__zK71 > picture > img {
+  object-fit: contain;
+}
+.text {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px;
+}
+.offerH1 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  padding-bottom: 0px;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetSlot3 {
+  font-size: 40px;
+  font-weight: 700;
+  color: #f62929;
+  text-align: center;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .slotTargetSlot3 {
+    font-size: 23px;
+  }
+}
+.offerH12 {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+.slotTargetSlot4 {
+  font-size: 24px;
+  font-weight: 700;
+  color: #202428;
+  text-align: center;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .slotTargetSlot4 {
+    font-size: 14px;
+  }
+}
+.offerP {
+  position: relative;
+  width: 350px;
+  height: auto;
+  max-width: 800px;
+  margin-bottom: 25px;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .offerP {
+    width: 225px;
+    margin-bottom: 10px;
+    padding-bottom: 0px;
+  }
+}
+.slotTargetSlot5 {
+  font-size: 18px;
+  color: #000000;
+  text-align: center;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .slotTargetSlot5 {
+    font-size: 12px;
+  }
+}
+.aCta {
+  position: relative;
+  width: 357px;
+  height: 62px;
+  background: #f35500;
+  margin-bottom: 30px;
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 12px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .aCta {
+    margin-bottom: 15px;
+    justify-content: center;
+    width: 225px;
+    font-size: 12px;
+  }
+}
+.slotTargetSlot7 {
+  font-size: 21px;
+  font-weight: 700;
+  color: #ffffff;
+  text-align: center;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .slotTargetSlot7 {
+    text-align: center;
+  }
+}
+.freeBox__lSwrd {
+  position: relative;
+  width: auto;
+  height: auto;
+  max-width: 800px;
+  flex-direction: row;
+  display: none;
+}
+.slotTargetSlot6 {
+  font-size: 15px;
+  font-weight: 700;
+  color: #000000;
+}
+.freeBox__rzTg3 {
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  display: none;
+  padding: 8px;
+}
+.freeBox__eyCzK {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: auto;
+  max-width: 100%;
+  width: 90px;
+  margin-right: 25px;
+  flex-shrink: 0;
+  padding: 8px 0px;
+}
+.img__oKiwh {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+}
+.img__oKiwh > picture > img {
+  object-fit: cover;
+}
+.text__tWzt6 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  text-align: center;
+  color: #626262;
+  min-width: 0;
+}
+.freeBox__jzh69 {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 90px;
+  height: auto;
+  max-width: 100%;
+  flex-shrink: 0;
+  padding: 8px 0px;
+}
+.img___6QlkF {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 60px;
+  height: 60px;
+  flex-shrink: 0;
+}
+.img___6QlkF > picture > img {
+  object-fit: cover;
+}
+.text__f7Dfn {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 800px;
+  text-align: center;
+  color: #626262;
+  min-width: 0;
+}

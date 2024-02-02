@@ -1,0 +1,321 @@
+.ad {
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  box-shadow: 0px 4px 16px 0px #00000033;
+  position: relative;
+  border-radius: 15px;
+  padding: 8px;
+  border: 1px solid #868686;
+}
+.brand {
+  display: flex;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding: 8px 8px 8px 12px;
+}
+.img__ctQx {
+  position: relative;
+  object-fit: cover;
+  max-width: 100%;
+  width: 2rem;
+  height: 2rem;
+  flex-shrink: 0;
+  border-radius: 100px;
+}
+.img__ctQx > picture > img {
+  object-fit: cover;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .img__ctQx {
+    width: 2rem;
+    flex-shrink: 0;
+  }
+}
+.editable__qRmon:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.text__rpX3Y {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  padding-top: 2px;
+  font-family: "Inconsolata";
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #383b3d;
+  padding-left: 21px;
+}
+.edit:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.body {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 5px 12px;
+  margin: 0rem 0px;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .body {
+    width: 100%;
+    min-width: 0;
+    margin: 0px 0px 0rem;
+  }
+}
+.editable__himBp:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.text__pOl7B {
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  padding-top: 0px;
+  font-family: "Inconsolata";
+  color: #5a5d63;
+  padding-left: 0px;
+  font-size: 21px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__pOl7B {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.editAdBody1:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.editable__bOz:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.text__qKjP3 {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  padding-top: 0px;
+  font-family: "Inconsolata";
+  color: #5a5d63;
+  padding-left: 0px;
+  font-size: 21px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__qKjP3 {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.editAdBody2:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+}
+.editable__vg5Gl:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.text__yxkcM {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  padding-top: 0px;
+  font-family: "Inconsolata";
+  color: #5a5d63;
+  padding-left: 0px;
+  font-size: 21px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text__yxkcM {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.editAdBody3:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.editable__jJ6At:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.text___2Grfc {
+  position: relative;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  padding-top: 0px;
+  font-family: "Inconsolata";
+  color: #5a5d63;
+  padding-left: 0px;
+  font-size: 21px;
+  min-width: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .text___2Grfc {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.editAdBody4:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.editable__gUhsw:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  width: 100%;
+  min-width: 0;
+}
+.creative {
+  position: relative;
+  object-fit: cover;
+  align-self: flex-start;
+  width: 100%;
+  min-width: 0;
+  margin: 0px;
+}
+.creative > picture > img {
+  object-fit: cover;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .creative {
+    width: 100%;
+    min-width: 0;
+  }
+}
+.editAdCreative:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.freeBox__ziWpm {
+  display: flex;
+  position: relative;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  margin-right: 0px;
+  min-width: 0;
+  padding: 12px 12px 0px;
+}
+.editable__sBzlm:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+  align-self: flex-start;
+}
+.text__oMuZm {
+  width: 380rem;
+  height: auto;
+  max-width: 100%;
+  padding-top: 0rem;
+  font-size: 1.25rem;
+  font-family: "Inconsolata";
+  font-weight: 600;
+  padding-left: 6px;
+  text-align: left;
+  padding-right: 0px;
+}
+.editAdHeadline:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.editable__meoLz:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.text__sJxF {
+  position: relative;
+  width: 380rem;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 1rem;
+  padding-top: 2px;
+  font-family: "Inconsolata";
+  color: #5a5d63;
+  font-size: 0.875rem;
+  padding-left: 5px;
+  text-align: left;
+}
+.editAdDescription:global(.__wab_instance) {
+  max-width: 100%;
+  position: relative;
+}
+.freeBox__pYb8V {
+  display: flex;
+  position: relative;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  min-width: 0;
+  padding: 0px 12px 12px;
+  margin: 0px 0rem 16px;
+}
+.learnMoreButton:global(.__wab_instance) {
+  max-width: 100%;
+  width: 146px;
+  height: 55px;
+  flex-shrink: 0;
+}
+.svg__io5R0 {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.svg__vqUjH {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.button:global(.__wab_instance) {
+  max-width: 100%;
+  object-fit: cover;
+  position: relative;
+  height: 100%;
+  min-height: 0;
+}
+.img__anlMh {
+  object-fit: cover;
+  max-width: 100%;
+  width: 50px;
+  margin-right: 5px;
+  margin-left: 10px;
+  margin-bottom: 0px;
+}
+.img__anlMh > picture > img {
+  object-fit: cover;
+}

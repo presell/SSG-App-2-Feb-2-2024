@@ -1,0 +1,127 @@
+.root {
+  display: inline-flex;
+  flex-direction: row;
+  width: auto;
+  height: auto;
+  align-items: flex-start;
+  justify-content: flex-start;
+  background: none;
+  position: sticky;
+  justify-self: flex-start;
+  border-radius: 0.5rem;
+  padding: 0px;
+}
+.rootcolor_dark {
+  background: #232320;
+  border-color: #717069;
+}
+.root:hover {
+  border-color: #c8c7c1;
+}
+.root:focus-within {
+  box-shadow: 0px 0px 0px 3px #96c7f2;
+  outline: none;
+  border-radius: 6px;
+}
+.root___focusVisibleWithin {
+  box-shadow: 0px 0px 0px 3px #96c7f2;
+  outline: none;
+  border-radius: 6px;
+}
+.startIconContainer {
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  left: auto;
+  top: auto;
+  margin-right: 8px;
+  display: none;
+}
+.startIconContainershowStartIcon {
+  display: flex;
+}
+.root .startIconContainer___focusVisibleWithin {
+  outline: none;
+}
+.slotTargetStartIconshowStartIcon {
+  color: #90908c;
+}
+.slotTargetStartIconcolor_dark {
+  color: #ffffff;
+}
+.svg__zYp39 {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
+.input {
+  width: 1px;
+  left: auto;
+  top: auto;
+  font-size: 0.875rem;
+  color: #0a0a0a00;
+  font-family: "Inconsolata";
+  flex-shrink: 0;
+}
+@media (min-width: 0px) and (max-width: 768px) {
+  .input {
+    height: 50px;
+    max-width: 291px;
+    width: 100%;
+    min-width: 0;
+  }
+}
+.inputisDisabled {
+  cursor: not-allowed;
+}
+.inputcolor_dark {
+  color: #ffffff;
+}
+.root:focus-within .input {
+  outline: none;
+}
+.root .input___focusVisibleWithin {
+  outline: none;
+}
+.root .input:focus {
+  outline: none;
+}
+.root:focus-within .input:focus {
+  outline: none;
+}
+.root .input::placeholder {
+  color: #706f6c;
+}
+.rootcolor_dark .inputcolor_dark::placeholder {
+  color: #c8c7c1;
+}
+.root:focus-within .input::placeholder {
+  outline: none;
+}
+.endIconContainer {
+  position: relative;
+  flex-direction: row;
+  align-items: stretch;
+  justify-content: flex-start;
+  left: auto;
+  top: auto;
+  margin-left: 8px;
+  display: none;
+}
+.endIconContainershowEndIcon {
+  display: flex;
+}
+.slotTargetEndIconshowEndIcon {
+  color: #90908c;
+}
+.slotTargetEndIconcolor_dark {
+  color: #ffffff;
+}
+.svg__ujotA {
+  position: relative;
+  object-fit: cover;
+  width: auto;
+  height: 1em;
+}
